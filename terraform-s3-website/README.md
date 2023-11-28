@@ -14,7 +14,7 @@ Before you begin, make sure you have the following:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/nithishajav/homebase.git
+   git clone git@github.com:nithishajav/homebase.git
 2. Change into the project directory:
     
     ```bash
